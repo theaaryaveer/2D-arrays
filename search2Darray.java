@@ -20,6 +20,7 @@ public class search2Darray {
         Scanner sc = new Scanner(System.in);
         for(int i=0; i<n;i++){
             for(int j=0; j<m;j++){
+             
                 matrix[i][j]=sc.nextInt();
             }
         }
