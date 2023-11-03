@@ -6,7 +6,7 @@ public class search2Darray {
                 if(matrix[i][j]== key){
                     System.out.println("Key found at cell ("+i+","+j+")");
                     return true;
-                }
+                } 
             }
         }
         
